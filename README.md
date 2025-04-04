@@ -1,2 +1,2 @@
 # Elso-git
-## elso contolás
+## elso commitolás
